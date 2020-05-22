@@ -28,7 +28,7 @@ This code of conduct applies to all repos and communities for SalesTim-managed o
 
 ## Reporting Code of Conduct Issues
 
-We encourage all communities to resolve issues on their own whenever possible. This builds a broader and deeper understanding and ultimately a healthier interaction. In the event that an issue cannot be resolved locally, please feel free to report your concerns by contacting [codeofconduct@salestim.com](mailto:codeofconduct@salestim.com). Your report will be handled in accordance with the issue resolution process described in the [Code of Conduct FAQ](https://codeofconduct.salestim.com/faq).
+We encourage all communities to resolve issues on their own whenever possible. This builds a broader and deeper understanding and ultimately a healthier interaction. In the event that an issue cannot be resolved locally, please feel free to report your concerns by contacting [codeofconduct@salestim.com](mailto:codeofconduct@salestim.com). Your report will be handled in accordance with the issue resolution process described in the [Code of Conduct FAQ](https://codeofconduct.salestim.com/faq/).
 
 In your report please include:
 
