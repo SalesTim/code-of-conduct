@@ -1,4 +1,4 @@
-[![license](https://img.shields.io/badge/License-CC%20BY--SA%204.0-yellow?style=flat)](https://creativecommons.org/licenses/by-sa/4.0/)
+![classification:PUBLIC](https://img.shields.io/badge/classification-PUBLIC-blue)
 [![license](https://img.shields.io/badge/License-CC%20BY--SA%204.0-yellow?style=flat)](https://creativecommons.org/licenses/by-sa/4.0/)
 ![GitHub last commit](https://img.shields.io/github/last-commit/salestim/template-manifests)
 [![linkedin](https://img.shields.io/badge/follow-@salestim-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/salestim/)
